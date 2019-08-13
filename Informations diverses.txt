@@ -1,13 +1,13 @@
 - Répertoires:
 Les livres se trouvent dans /Shop
 Les livres pré-installés se trouvent dans /Books
-On peut charger des dictionnaires dans /dicts
+On peut charger des dictionnaires supplémentaires dans /dicts
 
 - PrintScreen:
-taper sur les deux coins opposés de la page
+Taper sur les deux coins opposés de la page
 
 - TTS ( TextToSpeech):
-ne fonctionne q'avec le réseau actif
+Ne fonctionne q'avec le réseau actif
 
 - Applications payantes:
-Pas possible pour l'instant selon la documentation mais en fait impossible d'installer aucune application hors celles proposées par Onyx car l'appareil n'est pas certifié Play Protect!
+Pas possible pour l'instant selon la documentation mais en fait impossible d'installer une application hors ed celles proposées par Onyx car l'appareil n'est pas certifié Play Protect!
