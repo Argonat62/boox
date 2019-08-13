@@ -1,0 +1,19 @@
+Configuration de base la liseuse:
+
+Après avoir déballé la liseuse, il faut la mettre en charge durant quelques heures.
+
+Il faut tout d'abord configurer les paramètres de base suivants:
+
+
+- Connexion WiFi:
+Réglages -> Réglage du réseau Internet -> WiFi -> Sélectionner le réseau et introduire le mot de passe
+
+- Clavier SF:
+Réglages -> Gestion de la langue -> Clavier Android -> Langue de saisie -> Désactiver langue du système et français puis sélectionner français (QWERTZ)
+
+- Reconnaissance français:
+Réglages -> Gestion de la langue -> Onyx Keyboard -> Handwriting recognition package -> français (France) -> download -> attendre la fin du téléchargement puis sélectionner la langue
+
+
+- Timezone:
+Réglages -> Réglage de la date -> Sélectioner fuseau horaire -> Heure Amsterdam
